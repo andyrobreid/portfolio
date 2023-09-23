@@ -2,7 +2,7 @@
     let title = 'Andrew Reid - Portfolio'
 </script>
 
-<title>title</title>
+<title>{title}</title>
 <h1>Andrew Reid</h1>
 
 <p><a href="https://github.com/andyrobreid">Github</a></p>
