@@ -1,12 +1,9 @@
 <script>
-    let title = 'Andrew Reid - Portfolio'
+	import Links from "$lib/Links.svelte";
+    import title from "$lib/title";
+	
+    $title = 'Home'
 </script>
 
-<title>{title}</title>
-<h1>Andrew Reid</h1>
-
-<p><a href="https://github.com/andyrobreid">Github</a></p>
-<p><a href="https://www.linkedin.com/in/andrew-reid-879450189">Linked-in</a></p>
-<p><a href="https://www.printables.com/@made_for_making_5664">Printables</a></p>
-
-<p>Currently in an Electrical engineering post at <a href="https://mallaghangse.com/">Mallaghan Group</a> developing and maintaining mobile PLC system software.</p>
+<p>Welcome to the first website I have created and deployed on the web.</p>
+<p>I aim to use this to learn web development, showcase my intrests and possibly if recognised, my skills.</p>
