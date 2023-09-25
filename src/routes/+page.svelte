@@ -1,10 +1,11 @@
 <script>
 	import Links from "$lib/Links.svelte";
-
-    let title = 'Andrew Reid - Portfolio'
+    import title from "$lib/title";
+	
+    $title = 'Home'
 </script>
 
+<p>Welcome to the first website I have hosted.</p>
+<p>I aim to use this as a means to learn web development and showcase what I can do</p>
 
 <Links/>
-
-<p>Currently in an Electrical engineering post at <a href="https://mallaghangse.com/">Mallaghan Group</a> developing and maintaining mobile PLC system software.</p>
