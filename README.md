@@ -1,6 +1,6 @@
 # portfolio
 
-[My Portfolio](andyrobreid.me)
+[My Portfolio](https://andyrobreid.me)
 
 ## Structure
 
