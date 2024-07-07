@@ -1,5 +1,7 @@
 <script>
+    export let className;
     let year = 2023
 </script>
-
-<p>Copyright - Andrew Reid - {year}</p>
+<div class={className}>
+    <p>Andrew Reid - {year}</p>
+</div>
