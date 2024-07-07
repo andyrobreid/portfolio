@@ -8,4 +8,11 @@
 
 <slot></slot>
 
-<Footer/>
+<Footer class="footer"/>
+
+<style>
+    .footer {
+        left: 0
+        bottom: 0   
+    }
+</style>
