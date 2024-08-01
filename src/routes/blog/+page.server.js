@@ -1,7 +1,9 @@
 
 export async function load({params}){
-	//TODO implement list of blogs
+	//TODO implement list of blogs hard coded
 	return {
-		result: "NOT IMPLEMENTED"
+		result: [
+			{id:1: path:"1-Lets_Start.md"}
+		]
 	}
 }

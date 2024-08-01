@@ -2,8 +2,10 @@
 
 
 export function load({ params }){
+	let path = "1-Lets_Start.md";
 	return {
-		id: params.id
+		id: params.id,
+		path: path
 	}
 }
 
