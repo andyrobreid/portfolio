@@ -7,7 +7,7 @@ export async function load({ params }){
 	return {
 		id: item.id,
 		path: item.path,
-		content: response.text
+		content: response.text()
 	}
 }
 
