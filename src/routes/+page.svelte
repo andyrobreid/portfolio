@@ -5,6 +5,6 @@
 </script>
 
 <p>Hi, I'm Andrew Reid</p>
-<p>Used to learn web development, showcase interests and share projects.</p>
+<p>Welcome to my Portfolio.</p>
 
 
