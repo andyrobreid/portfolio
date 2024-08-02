@@ -1,5 +1,5 @@
 <script>
-    	import Tester from "$lib/Tester.svelte";
+    	import Tester from "$lib/Tester";
 	export let data;
 </script>
 <h1>Blog posts</h1>
