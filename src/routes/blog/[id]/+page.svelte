@@ -9,5 +9,5 @@
 <h1>Blog Title</h1>
 
 <div>
-{marked.parse(data.content)}
+{@html marked.parse(data.content)}
 </div>
