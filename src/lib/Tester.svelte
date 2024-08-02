@@ -8,8 +8,8 @@
 
 <div class="tester">
 	<p>{JSON.stringify(data)}</p>
+	<button on:click={clickHandler()}>Trigger</button>
 </div>
-<button on:click={clickHandler()}>Trigger</button>
 <style>
 	.tester {
 		background: blue;
