@@ -1,4 +1,4 @@
-export const files = [
+export default const files = [
 	{id:1, path:"1-Lets_Start.md"}
 ]
 
