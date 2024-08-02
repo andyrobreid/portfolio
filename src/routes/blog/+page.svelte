@@ -8,6 +8,6 @@
 
 <p>{data}</p>
 
-{#each data as post}
+{#each data.result as post}
 	<a href={post.path}>{post.path}</a>
 {/each}
