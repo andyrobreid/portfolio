@@ -2,8 +2,8 @@
 import {files} from "$lib/blog.js";
 
 export async function load({ params }){
-	let item = files[parseInt(params.id)]
-	let response = await fetch("/"+item.path)
+	const item = files[parseInt(params.id)]
+	let response = await fetch("/1-Lets_Start.md!)
 	console.log(response)
 	return {
 		id: item.id,
