@@ -1,5 +1,5 @@
 <script>
-	import Tester from "$lib/Tester";
+	import Tester from "$lib/Tester.svelte";
 	export let data
 </script>
 
