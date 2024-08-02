@@ -2,7 +2,7 @@
 import {files} from "$lib/blog.js";
 
 export async function load({ params }){
-	const item = files[parseInt(params.id)]
+	const item = files[1]
 	let response = await fetch("/1-Lets_Start.md")
 	console.log(response)
 	return {
