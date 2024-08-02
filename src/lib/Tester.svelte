@@ -4,7 +4,7 @@
 </script>
 
 <div class="tester">
-	<p>{data}</p>
+	<p>{JSON.stringify(data)}</p>
 </div>
 
 <style>
