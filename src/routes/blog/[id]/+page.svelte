@@ -5,8 +5,6 @@
 	//TODO html injection sanitise
 </script>
 
-<Tester data={data}/>
-
 <h1>Blog Title</h1>
 
 <div>
