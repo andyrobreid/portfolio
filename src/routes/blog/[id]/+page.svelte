@@ -1,6 +1,6 @@
 <script>
 	import Tester from "$lib/Tester";
-	export const data;
+	const data;
 </script>
 
 <Tester data={data}/>
