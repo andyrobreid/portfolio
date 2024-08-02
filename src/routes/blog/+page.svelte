@@ -6,8 +6,6 @@
 
 <Tester data={data}/>
 
-<p>{data}</p>
-
 {#each data.result as post}
 	<a href={post.path}>{post.path}</a>
 {/each}
