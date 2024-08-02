@@ -1,6 +1,6 @@
 <script>
 	import Tester from "$lib/Tester.svelte";
-	import marked from "marked";
+	import {marked} from "marked";
 	export let data
 </script>
 
