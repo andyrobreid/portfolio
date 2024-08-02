@@ -3,7 +3,7 @@ import {files, GetFileFromParam} from "$lib/blog.js";
 import {URL} from "$env/static/private";	
 
 export async function load({ params }){
-	const item = GetFileFromParam(param.id);
+	const item = GetFileFromParam(params.id);
 	let response = await fetch(URL + "/" + item.path);
 	return {
 		id: item.id,
