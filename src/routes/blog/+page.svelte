@@ -5,5 +5,5 @@
 <h1>Blog posts</h1>
 
 {#each data.result as post}
-	<a href={`/blog/${post.id}`}>{post.path}</a>
+	<a href={`/blog/${post.id}`}><h3>{post.path}</h3></a>
 {/each}
