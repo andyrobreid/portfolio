@@ -1,11 +1,10 @@
 //TODO add load function to get markdown post
-
+import files from "$lib/blog.js";
 
 export async function load({ params }){
-	let path = "1-Lets_Start.md";
 	return {
 		id: params.id,
-		path: path
+		path: files[parseInt(params.id)]
 	}
 }
 
