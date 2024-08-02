@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      marked:
+        specifier: ^13.0.3
+        version: 13.0.3
     devDependencies:
       '@sveltejs/adapter-auto':
         specifier: ^2.1.0
@@ -651,6 +655,11 @@ packages:
   magic-string@0.30.3:
     resolution: {integrity: sha512-B7xGbll2fG/VjP+SWg4sX3JynwIU0mjoTc6MPpKNuIvftk6u6vqhDnk1R80b8C2GBR6ywqy+1DcKBrevBg+bmw==}
     engines: {node: '>=12'}
+
+  marked@13.0.3:
+    resolution: {integrity: sha512-rqRix3/TWzE9rIoFGIn8JmsVfhiuC8VIQ8IdX5TfzmeBucdY05/0UlzKaw0eVtpcN/OdVFpBk7CjKGo9iHJ/zA==}
+    engines: {node: '>= 18'}
+    hasBin: true
 
   mdn-data@2.0.30:
     resolution: {integrity: sha512-GaqWWShW4kv/G9IEucWScBx9G1/vsFZZJUO+tD26M8J8z3Kw5RDQjaoZe03YAClgeS/SWPOcb4nkFBTEi5DUEA==}
@@ -1636,6 +1645,8 @@ snapshots:
   magic-string@0.30.3:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.4.15
+
+  marked@13.0.3: {}
 
   mdn-data@2.0.30: {}
 
