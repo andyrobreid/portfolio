@@ -11,5 +11,5 @@
 
 <Tester data={first}/>
 {#each data.result as post}
-	<a href={`/blog/${post.id}`}><h3>{GetTitleFromParam(post.id)[1]}</h3></a>
+	<a href={`/blog/${post.id}`}><h3>{GetTitleFromParam(post.id)}</h3></a>
 {/each}

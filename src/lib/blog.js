@@ -15,8 +15,9 @@ function SplitFilename(Filename){
 }
 
 export function GetTitleFromParam(number){
+	//TODO Convert to get props and provide object with different file properties
 	const post = files[number-1];
 	const parts = SplitFilename(post.path);
-	return parts;
+	return parts[1];
 }
 
