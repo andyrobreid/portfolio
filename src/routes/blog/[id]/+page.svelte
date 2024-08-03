@@ -8,6 +8,7 @@
 
 	//TODO html injection sanitise
 </script>
+<Tester data={data}/>
 
 <div>
 {@html marked.parse(data.content)}
