@@ -7,7 +7,6 @@ export function GetFileFromParam(param){
 	return files[i];
 }
 
-//TODO function for correctly labeling blog posts for blog titles sake
 function GetFile(number){
 	const post = files[number-1];
 }
@@ -27,7 +26,6 @@ function MapFilenameParts(Filename){
 }
 
 export function GetPropsFromParam(number){
-	//TODO Convert to get props and provide object with different file properties
 	const post = GetFile(number);
 	const parts = MapFilenameParts(post.path);
 	return parts;
