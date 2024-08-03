@@ -9,6 +9,7 @@ export function GetFileFromParam(param){
 
 function GetFile(number){
 	const post = files[number-1];
+	return post;
 }
 
 function SplitFilename(Filename){
