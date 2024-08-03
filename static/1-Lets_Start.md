@@ -7,13 +7,15 @@ Having a Bachelors degree in Mechanical and Manufacturing engineering, I enjoy u
 
 One of those complexities has been websites. To some they can be simply put together by wordpress or wix, but I like to get down to the level where I understand the technical, knowing what's happening to produce its outcome. I am down as far as html, css and js. Nothing deeper yet.
 
-Setting up this personal website (from scratch) is time consuming. Many years went into slowly learning the basics of web and software development. I've landed on frameworks which svelte sits most comfortably with me.
+I find it reflects how God created, by His Word many many pieces combine into what we now live prosperously in.
 
-So now here I am after 8+ years of learning I have finally plucked the courage to put my learnings to practise. Hoping to expand and grow so that I can utilise these skills to built future technology.
+Setting up this personal website (from scratch) is time consuming. Many years went into slowly learning the basics of web and software development. I've landed on frameworks and svelte sits most comfortably with me.
+
+Now here I am after 8+ years of learning I have finally plucked the courage to put my learnings to practise. Hoping to expand and grow so that I can utilise these skills to built future technology.
 
 I've seen in my job how programming to automate the day to day is both rewarding and helpful. I'll get into what my job consists of in another blog post.
 
-This site is built with Svetlekit and is deployed to Vercel. Using markdown for these blog posts which get parsed into html at runtime.
+This site is built with Svetlekit and is deployed to Vercel. Using markdown for these blog posts which is parsed into html.
 
 Here I hope to be able to share personal faith, work, hobbies and host some demo applications then see what progresses from that. I already have concepts in the making that just require some final tweaks.
 
