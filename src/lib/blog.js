@@ -23,6 +23,7 @@ function MapFilenameParts(Filename){
 		id: parts[0],
 		name: parts[1].replace('_', ' '),
 		ext: parts[2],
+		path: Filename
 	}
 }
 
