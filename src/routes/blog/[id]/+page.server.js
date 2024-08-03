@@ -6,8 +6,7 @@ export async function load({ params }){
 	const item = GetPropsFromParam(params.id);
 	let response = await fetch(URL + "/" + item.path);
 	return {
-		id: item.id,
-		path: item.path,
+		...item,
 		content: await response.text()
 	}
 }
