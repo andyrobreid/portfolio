@@ -9,7 +9,6 @@
 	let first = GetPropsFromParam(1);
 </script>
 
-<Tester data={data}/>
 {#each data.result.map(({id}) => GetPropsFromParam(id)) as post}
 	<a href={`/blog/${post.id}`}><h3>{post.name}</h3></a>
 {/each}
