@@ -4,7 +4,7 @@
 	import title from "$lib/title";
 	export let data
 	
-	$title = data.path;
+	$title = data.name;
 
 	//TODO html injection sanitise
 </script>
