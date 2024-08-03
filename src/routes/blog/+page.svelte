@@ -6,10 +6,10 @@
 	export let data;
 
 	$title = 'Blogs'
-	let first = GetTitleFromParam(1)
+	let first = GetPropsFromParam(1);
 </script>
 
 <Tester data={first}/>
-{#each data.result as post}
-	<a href={`/blog/${post.id}`}><h3>{GetTitleFromParam(post.id)}</h3></a>
+{#each data.result.forEach((element) => GetPropsFromParam(element)) as post}
+	<a href={`/blog/${post.id}`}><h3>{post.name}</h3></a>
 {/each}
