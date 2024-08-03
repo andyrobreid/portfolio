@@ -10,6 +10,6 @@
 </script>
 
 <Tester data={first}/>
-{#each data.result.forEach((element) => GetPropsFromParam(element)) as post}
+{#each data.result.forEach(({id}) => GetPropsFromParam(id)) as post}
 	<a href={`/blog/${post.id}`}><h3>{post.name}</h3></a>
 {/each}
