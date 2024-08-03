@@ -10,7 +10,7 @@ export function GetFileFromParam(param){
 //TODO function for correctly labeling blog posts for blog titles sake
 
 function SplitFilename(Filename){
-	const parts = Filename.split('/\-|\./');
+	const parts = Filename.split(/\-|\./);
 	return parts;
 }
 
