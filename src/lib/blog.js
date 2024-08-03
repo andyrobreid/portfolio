@@ -9,4 +9,15 @@ export function GetFileFromParam(param){
 
 //TODO function for correctly labeling blog posts for blog titles sake
 
+function SplitFilename(Filename){
+	const parts = Filename.split('\-|\.|');
+	return parts;
+}
+
+export function GetTitleFromParam(param){
+	const i = parseInt(param) - 1;
+	const post = files[i];
+	const parts = SplitFilename(post.path);
+	return parts[1];
+}
 
