@@ -15,8 +15,8 @@ function SplitFilename(Filename){
 }
 
 export function GetTitleFromParam(number){
-	const post = files[number];
+	const post = GetFileFromParam(number);
 	const parts = SplitFilename(post.path);
-	return parts[1];
+	return parts;
 }
 
