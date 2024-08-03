@@ -1,7 +1,7 @@
 <script>
     	import Tester from "$lib/Tester.svelte";
 	import title from "$lib/title";
-	import {GetTitleFromParam} from "$lib/blog";
+	import {GetPropsFromParam} from "$lib/blog";
 
 	export let data;
 
