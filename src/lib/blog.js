@@ -1,5 +1,6 @@
 export const files = [
-	{id:1, path:"1-Lets_Start.md"}
+	{id:1, path:"1-Lets_Start.md"},
+	{id:2, path:"2-Mobile_Development.md"}
 ]
 
 export function GetFileFromParam(param){
