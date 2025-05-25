@@ -1,6 +1,5 @@
 <script>
 	import Tester from "$lib/Tester.svelte";
-	import {marked} from "marked";
 	import title from "$lib/title";
 	export let data
 	
@@ -10,5 +9,5 @@
 </script>
 
 <div>
-{@html marked.parse(data.content)}
+{@html data.content}
 </div>
