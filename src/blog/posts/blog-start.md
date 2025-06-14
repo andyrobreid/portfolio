@@ -6,8 +6,6 @@ links:
   - portfolio.md
 ---
 
-# Introduction
-
 Hi, my name is Andrew Reid. Believer in Christ Alone, Husband, and engineer who loves to learn how this and that works.
 
 <!-- more -->
