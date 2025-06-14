@@ -1,8 +1,9 @@
 ---
-date: 04/12/2024
+date: 2024-12-04
 categories:
   - Software Development
-links: 
+links:
+  - portfolio.md
 ---
 
 # Introduction
