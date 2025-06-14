@@ -1,10 +1,7 @@
 ---
-created: 2024-08-03T14:44
-updated: 2024-08-14T22:40
-progress: 100
-type: blog
-status: live
-deadline: 
+date: 2024-08-03
+categories:
+links: 
 ---
 
 03/08/2024

@@ -1,9 +1,7 @@
 ---
-progress: 0
-type: blog
-status: wip
-deadline: 
-created: 2024-08-14T22:36
-updated: 2024-08-17T21:46
+date: 2024-08-14
+categories:
+links: 
 ---
-Recently started welding.
+
+I Recently started welding.
