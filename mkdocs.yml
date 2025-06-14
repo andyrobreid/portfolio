@@ -1,8 +1,11 @@
 docs_dir: src
 site_name: portfolio
 site_url: https://andyrobreid.github.io/portfolio/
+repo_url: https://github.com/andyrobreid/portfolio/
 plugins:
   - blog:
       blog_toc: true
 theme:
   name: material
+nav:
+  - Blog: 'blog/index.md'
