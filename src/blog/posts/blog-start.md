@@ -3,11 +3,14 @@ date: 2024-08-03
 categories:
   - Beginnings
 links: 
+  - portfolio.md
 ---
 
 # Introduction
 
 Hi, my name is Andrew Reid. Believer in Christ Alone, Husband, and engineer who loves to learn how this and that works.
+
+<!-- more -->
 
 Having a Bachelors degree in Mechanical and Manufacturing engineering, I enjoy understanding how complexity is built from simple.
 

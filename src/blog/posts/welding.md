@@ -7,3 +7,5 @@ links:
 ---
 
 I Recently started welding.
+
+<!-- more -->
