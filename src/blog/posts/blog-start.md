@@ -1,10 +1,10 @@
 ---
 date: 2024-08-03
 categories:
+  - Beginnings
 links: 
 ---
 
-03/08/2024
 # Introduction
 
 Hi, my name is Andrew Reid. Believer in Christ Alone, Husband, and engineer who loves to learn how this and that works.
@@ -38,6 +38,7 @@ Programming Languages:
 - Python
 - Javascript
 - Rust
+
 ## Fun fact
 
 Finished development of this site on my Samsung Fold 4. Using UserLand. I'll explain further on another blog. It's testament to current technology that I can develop a website on a mobile phone and push changes to cloud infastructure and see those changes effective within minutes.
