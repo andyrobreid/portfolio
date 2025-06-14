@@ -1,5 +1,6 @@
 docs_dir: src
 site_name: portfolio
+site_url: https://andyrobreid.github.io/portfolio/
 plugins:
   - blog:
       blog_toc: true
