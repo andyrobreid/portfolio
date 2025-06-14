@@ -1,11 +1,5 @@
-docs_dir: noted-brain
-site_name: obsidian
+docs_dir: src
+site_name: portfolio
 plugins:
-  - pub-obsidian:
-      obsidian_dir: '.obsidian' 
-      backlinks:
-        enabled: true
-      links:
-        wikilinks_enabled: true
 theme:
   name: material
