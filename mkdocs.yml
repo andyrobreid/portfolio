@@ -1,5 +1,7 @@
 docs_dir: src
 site_name: portfolio
 plugins:
+  - blog:
+      blog_toc: true
 theme:
   name: material
