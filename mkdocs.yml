@@ -1,0 +1,11 @@
+docs_dir: noted-brain
+site_name: obsidian
+plugins:
+  - pub-obsidian:
+      obsidian_dir: '.obsidian' 
+      backlinks:
+        enabled: true
+      links:
+        wikilinks_enabled: true
+theme:
+  name: material
