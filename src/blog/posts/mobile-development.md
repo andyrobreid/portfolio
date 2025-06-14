@@ -11,7 +11,7 @@ draft: true
 
 What a year it has been.
 
-With having a Galaxy fold 4 phone now for about half a year, I have been trying to find means to utilise it for deveopment on the go.
+With having a Galaxy fold 4 phone now for about half a year, I have been trying to find means to utilise it for development on the go.
 
 <!-- more -->
 
