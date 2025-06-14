@@ -4,6 +4,7 @@ categories:
   - welding
 links: 
   - portfolio.md
+draft: true
 ---
 
 I Recently started welding.
