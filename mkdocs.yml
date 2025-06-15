@@ -7,5 +7,3 @@ plugins:
       blog_toc: true
 theme:
   name: material
-nav:
-  - Blog: 'blog/index.md'
