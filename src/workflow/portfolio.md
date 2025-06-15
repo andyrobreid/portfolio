@@ -7,7 +7,7 @@ categories:
 This portfolio you are reading doesn't just appear from my mind. A process is in place to get it viewed online
 
 1. Written
-	- [obsidian](https://obsidian.md)
+	- [obsidian](https://obsidian.md){:target="_blank"}
 	- Laptop
 	- Phone
 	- Notebook

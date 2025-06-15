@@ -7,3 +7,5 @@ plugins:
       blog_toc: true
 theme:
   name: material
+markdown_extensions:
+  - attr_list
