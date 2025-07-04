@@ -13,6 +13,10 @@ My current intrests include:
 
 ## Hardware 
 
+### EDC (Every Day Carry)
+
+[Keyport pivot](https://www.mykeyport.com/pages/pivot-key-organizer)
+
 ### Laptop
 
 [Framework laptop 16](./framework-16.md)
