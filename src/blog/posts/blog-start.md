@@ -1,49 +1,36 @@
 ---
-date: 2024-08-03
+title: Hello World
+date: 2025-07-04
 categories:
   - Beginnings
 links: 
-  - portfolio.md
+  - index.md
 ---
 
-Hi, my name is Andrew Reid. Believer in Christ Alone, Husband, and engineer who loves to learn how this and that works.
+## Let me introduce myself
+
+Hello :wave:, my name is Andrew. Born again Christian, Father, Husband, and engineer who loves to learn how this and that works.
 
 <!-- more -->
 
-Having a Bachelors degree in Mechanical and Manufacturing engineering, I enjoy understanding how complexity is built from simple.
+Having a Bachelors degree in [mechanical and manufacturing engineering](https://www.ulster.ac.uk/courses/202526/mechanical-and-manufacturing-engineering-35956), I've always enjoyed understanding how complexity is built upon simplicity when broken down.
 
-One of those complexities has been websites. To some they can be simply put together by wordpress or wix, but I like to get down to the level where I understand the technical, knowing what's happening to produce its outcome. I am down as far as html, css and js. Nothing deeper yet.
+One of those complexities has been websites. To some they can be simply put together by wordpress or wix, but I like to answer "but, how does it work?", knowing what it takes to produce its outcome.
 
-I find it reflects how God created, by His Word many many pieces combine into what we now live prosperously in.
+I find it reflects God in his grand design, by His Word complexity came into existance the many bits of creation combined into what we call reality. Scientists have been reverse engineering creation since science dawned. That's how I see reality. In my day-to-day I get to build with what God has provided, solve for what problems we humans create.
 
-Setting up this personal website (from scratch) is time consuming. Many years went into slowly learning the basics of web and software development. I've landed on frameworks and svelte sits most comfortably with me.
+Now I write this knowing you may disagree, you've even made up your mind on how I've made an impression to you. That's ok. I hope you read on. 
 
-Now here I am after 8+ years of learning I have finally plucked the courage to put my learnings to practise. Hoping to expand and grow so that I can utilise these skills to built future technology.
+My faith is indeed the very foundation to what I do, but I don't seek to force it on anyone. I simply seek to live it out, that by my works you will know christ in me.
 
-I've seen in my job how programming to automate the day to day is both rewarding and helpful. I'll get into what my job consists of in [another blog post](/blog/2).
+Setting up this portfolio has taken much time to even get to this stage. Many years went into slowly learning the basics of software. From trying to learn [languages](../../technology/current.md#Software) to web frameworks. I finally settled on simple, [mkdocs](https://www.mkdocs.org/) with [material](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/?h=permalink#table-of-contents) gets the job done. A portfolio doesn't need heavy reactivity, when I'm not looking to be a web dev. The right tool for the job is best.
 
-This site is built with Svetlekit and is deployed to Vercel. Using markdown for these blog posts which is parsed into html.
-
-Here I hope to be able to share personal faith, work, hobbies and host some demo applications then see what progresses from that. I already have concepts in the making that just require some final tweaks.
-
-My current intrests include:
-
-- CAD (Computer Aided Design)
-- 3D Printing
-- Hobby Electronics
-- PLC Programming
-- Scripting for Task Automation (Powershell)
-
-Programming Languages: 
-
-- Python
-- Javascript
-- Rust
+I've seen in my job how programming to automate the day to day is both rewarding and helpful. I'll get into what my job consists of [elsewhere](../../roadmap.md#).
 
 ## Fun fact
 
-Finished development of this site on my Samsung Fold 4. Using UserLand. I'll explain further on another blog. It's testament to current technology that I can develop a website on a mobile phone and push changes to cloud infastructure and see those changes effective within minutes.
+Initial development of this site as an idea got deployed from my [mobile (Samsung Fold 4)](../../technology/current.md#Mobile). Using [UserLand](../../technology/current.md#Applications) I'll explain further in a [workflow](../../roadmap.md) how that's possible. I was able to (don't tell the wife) develop software on holiday, as if I was using a laptop. It's testament to current technology that I can develop softwware projects on a mobile phone and push changes to cloud infastructure and see those changes effective within seconds.
 
-# Conclusion
+## Conclusion
 
-If you want to follow what I'm doing, simply bookmark this website. I'll post when possible. And develop this site to have better asthetics. As long as it functions for now, it's good to ship. Feel free to contact me, my email is linked at the bottom of the page.
+If you want to follow what I'm doing, simply bookmark this website. I'll post when possible. Developing this sites contents through time. Feel free to contact me with any questions via [and](mailto:andyrobreid@gmail.com), my email is linked at the bottom of the page.
