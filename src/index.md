@@ -2,7 +2,7 @@
 title: Hello
 ---
 
-:waving-hand: Hello there, I'm Andrew Reid, thanks for checking out my portfolio. You can discover the various areas of my life here. 
+:wave: Hello there, I'm Andrew Reid, thanks for checking out my portfolio. You can discover the various areas of my life here. 
 
 I'm currently a [PLC Control Systems engineer](https://www.google.com/search?q=What+is+a+plc+engineer) at [Mallaghan Group](https://mallaghangse.com/).
 Developing mobile systems that may have handled the food you eat, luggage you bring, or even yourself when you pass through airports.
