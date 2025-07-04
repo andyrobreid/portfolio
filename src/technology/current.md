@@ -1,20 +1,49 @@
 ---
-title: Current Hardware
-date: 2025-06-14 
+title: Current Technology
+date: 2025-07-04 
 ---
 
-What is the current hardware and how do I utilise them?
+My current intrests include:
 
-Feel free to get in contact to discuss.
+- CAD (Computer Aided Design), especially codecad
+- 3D Printing
+- Hobby Electronics
+- PLC Programming
+- Scripting for Task Automation (Powershell)
 
-# Laptop
+## Hardware 
+
+### Laptop
 
 [Framework laptop 16](./framework-16.md)
 
-# Mobile
+### Mobile
 
 [Samsung Galaxy fold 4](./samsung-galaxy-fold4.md)
 
-# Notepad
+### Notepad
 
 [Supernote Nomad](./supernote-nomad.md)
+
+### 3D Printing
+
+- Prusa i3 MK3S
+- Prusa i3 MK2.5s
+
+## Software
+
+Current applications, languages I use.
+
+### Applications
+
+- Onshape
+- helix-editor
+- wezterm
+- lazygit
+- uv
+- marimo
+
+### Languages
+
+- Python
+- Rust
