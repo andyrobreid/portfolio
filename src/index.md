@@ -5,9 +5,9 @@ title: Hello
 :wave: Hello there, I'm Andrew Reid, thanks for checking out my portfolio. You can discover the various areas of my life here. 
 
 I'm currently a [PLC Control Systems engineer](https://www.google.com/search?q=What+is+a+plc+engineer) at [Mallaghan Group](https://mallaghangse.com/).
-Developing mobile systems that may have handled the food you eat, luggage you bring, or even yourself when you pass through airports.
+Developing mobile systems that have likely handled the food you eat, luggage you bring, or even yourself when you pass through an airline.
 
-Want to know more, checkout my first [blog post](./blog/posts/blog-start.md).
+Want to learn more about me, checkout my first [blog post](./blog/posts/blog-start.md).
 
 If you're intrested in how this page was made you can checkout its [workflow](./workflow/portfolio.md).
 You can checkout the source to this website via the github link (top right) or with [this link](https://github.com/andyrobreid/portfolio/).
