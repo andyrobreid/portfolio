@@ -16,3 +16,4 @@ See what I've planned for this portfolio and how time has took it's course.
 - :material-checkbox-blank-outline: 2025-07-04 Make [links](./links.md) visually appealing to represent the links within. Thinking like [linktree](https://linktr.ee/), a landing page for connections. [Hello](./index.md) is to stay as the actual landing page. But for sharing links is the page to land on.
 - :material-checkbox-blank-outline: 2025-07-04 Workflow for how I can use UserLand for software development
 - :material-checkbox-blank-outline: 2025-07-04 Workflow for how I can develop codecad models on mobile
+- :material-checkbox-blank-outline: 2025-07-04 Setup [versioning](https://squidfunk.github.io/mkdocs-material/setup/setting-up-versioning) on deployment
