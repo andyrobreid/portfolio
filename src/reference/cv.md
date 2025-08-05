@@ -2,6 +2,8 @@
 title: CV
 ---
 
+<!--TODO convert this page to [typst](https://typst.app/) then provide its pdf output to download-->
+
 Andrew Reid
 
 email: [andyrobreid@gmail.com](mailto:andyrobreid@gmail.com), mobile: 07874928168
@@ -20,7 +22,6 @@ email: [andyrobreid@gmail.com](mailto:andyrobreid@gmail.com), mobile: 0787492816
 
 CAD Design, 3D printing, programming.
 
-Programming Languages: PLCs:(ST, FBD), Python, Rust, C#, C++ (Arduino). 
+Programming Languages: PLCs:(ST, FBD), Python, Rust, C#, C++ (Arduino).
 
 Data analysis: Jupyter lab, marimo, pandas, plotly
-
