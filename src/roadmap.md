@@ -29,3 +29,4 @@ Here is a list of projects I'm currently working on:
 - :material-checkbox-blank-outline: 2025-??-?? HomeLab - Private - Sveltekit Web portal for managing services running at home on a Raspberry Pi
 - :material-checkbox-blank-outline: 2025-??-?? Finance - Private - Rust tooling for managing finances
 - :material-checkbox-blank-outline: 2025-??-?? CodeCAD - Private (May become public) - [build123d](https://github.com/gumyr/build123d) scripts to generate 3D models from code
+- :material-checkbox-blank-outline: 2025-??-?? OpenCaddy - Private - Custom Golf Caddy
