@@ -36,6 +36,9 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: true
   - attr_list
