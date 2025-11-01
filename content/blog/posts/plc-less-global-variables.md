@@ -1,5 +1,6 @@
 ---
 title: PLC less Global Variables
+draft: true
 ---
 
 When to use global variables?
