@@ -8,6 +8,6 @@ Languages I've dabbled in at some point
 - C#
 - Rust
 - IEC 61131
-  - ST
-  - FBD
+    - ST
+    - FBD
 
