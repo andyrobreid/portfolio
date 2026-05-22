@@ -25,11 +25,11 @@ My faith is indeed the very foundation to what I do, but I don't seek to force i
 
 Setting up this portfolio has taken much time to even get to this stage. Many years went into slowly learning the basics of software. From trying to learn [languages](../../technology/current.md#software) to web frameworks. I finally settled on simple, [mkdocs](https://www.mkdocs.org/) with [material](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/?h=permalink#table-of-contents) gets the job done. A portfolio doesn't need heavy reactivity, when I'm not looking to be a web dev. The right tool for the job is best.
 
-I've seen in my job how programming to automate the day to day is both rewarding and helpful. I'll get into what my job consists of [elsewhere](../../roadmap.md#).
+I've seen in my job how programming to automate the day to day is both rewarding and helpful. I'll get into what my job consists of in a future post.
 
 ## Fun fact
 
-Initial development of this site as an idea got deployed from my [mobile (Samsung Fold 4)](../../technology/current.md#mobile). Using [UserLand](../../technology/current.md#applications) I'll explain further in a [workflow](../../roadmap.md) how that's possible. I was able to (don't tell the wife) develop software on holiday, as if I was using a laptop. It's testament to current technology that I can develop softwware projects on a mobile phone and push changes to cloud infastructure and see those changes effective within seconds.
+Initial development of this site as an idea got deployed from my [mobile (Samsung Fold 4)](../../technology/current.md#mobile). Using [UserLand](../../technology/current.md#applications) I'll explain further in a future post how that's possible. I was able to (don't tell the wife) develop software on holiday, as if I was using a laptop. It's testament to current technology that I can develop softwware projects on a mobile phone and push changes to cloud infastructure and see those changes effective within seconds.
 
 ## Conclusion
 

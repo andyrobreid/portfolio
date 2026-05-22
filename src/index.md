@@ -9,9 +9,6 @@ Developing mobile systems that have likely handled the food you eat, luggage you
 
 Want to learn more about me, checkout my first [blog post](./blog/posts/blog-start.md).
 
-If you're intrested in how this page was made you can checkout its [workflow](./workflow/portfolio.md).
 You can checkout the source to this website via the github link (top right) or with [this link](https://github.com/andyrobreid/portfolio/).
 
 What about technologoy? You like to know what other people utilise? [Here](./technology/current.md) is a link to the current hardware I utilise.
-
-Want to know what I plan for this space then [here is the roadmap](./roadmap.md)
