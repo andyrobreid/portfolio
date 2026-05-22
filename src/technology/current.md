@@ -19,15 +19,15 @@ My current intrests include:
 
 ### Laptop
 
-[Framework laptop 16](./framework-16.md)
+[Framework laptop 16](./hardware/framework-16.md)
 
 ### Mobile
 
-[Samsung Galaxy fold 4](./samsung-galaxy-fold4.md)
+[Samsung Galaxy fold 4](./hardware/samsung-galaxy-fold4.md)
 
 ### Notepad
 
-[Supernote Nomad](./supernote-nomad.md)
+[Supernote Nomad](./hardware/supernote-nomad.md)
 
 ### 3D Printing
 

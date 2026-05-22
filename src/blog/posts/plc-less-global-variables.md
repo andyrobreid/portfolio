@@ -1,5 +1,7 @@
 ---
 title: PLC less Global Variables
+date: 2025-08-23
+draft: true
 ---
 
 When to use global variables?
