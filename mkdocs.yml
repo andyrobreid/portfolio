@@ -1,6 +1,6 @@
 docs_dir: src
 site_name: Andrew Reid
-site_url: https://andyrobreid.github.io/portfolio/
+site_url: https://andyrobreid.me
 repo_url: https://github.com/andyrobreid/portfolio/
 plugins:
   - blog:
