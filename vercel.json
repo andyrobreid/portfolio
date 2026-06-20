@@ -1,5 +1,5 @@
 {
-  "installCommand": "pip install uv && uv sync --frozen",
+  "installCommand": "uv sync --frozen",
   "buildCommand": "uv run mkdocs build --strict",
   "outputDirectory": "site"
 }
