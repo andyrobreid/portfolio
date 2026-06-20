@@ -1,3 +1,7 @@
+
+git:
+	lazygit
+ 
 # Serve the MkDocs site locally with live reload
 serve:
 	uv run mkdocs serve
